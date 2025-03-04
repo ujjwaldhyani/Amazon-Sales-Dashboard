@@ -19,9 +19,4 @@ This Power BI dashboard analyzes Amazon sales performance, including:
 2. Explore different pages to analyze insights.
 3. Use filters for a customized view.
 
-## Installation (Optional)
-If using SQL for data preprocessing:
-1. Import CSV files into a SQL database.
-2. Use provided queries for data cleaning.
-3. Load the final dataset into Power BI.
 -------
