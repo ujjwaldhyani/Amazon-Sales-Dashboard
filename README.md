@@ -1,34 +1,27 @@
-# Amazon-Sales-Dashboard
-This is a Power BI report on Amazon Sales for the year 2022 from March to June.
+## Overview
+This Power BI dashboard analyzes Amazon sales performance, including:
+- Sales trends over time
+- Product performance by category
+- Customer segmentation and buying patterns
+- Fulfillment efficiency and geographical sales distribution
 
-**Problem Statement:**
-Analyze and Provide Insights on Amazon Sales Report
+## Tech Stack
+- Power BI
+- CSV/Excel for data
 
-**Problem Description:**
-The provided dataset contains information about sales transactions on Amazon, including details such as order
-ID, date, status, fulfilment method, sales channel, product category, size, quantity, amount, shipping details,
-and more. The objective is to conduct a comprehensive analysis of the data and extract actionable insights to
-support business decision-making.
+## Features
+- Interactive visualizations for sales insights
+- Order fulfillment tracking
+- Customer behavior analysis
 
-**Key Objectives:**
-1. Sales Overview: Understand the overall sales performance, trends, and paƩerns over time.
-2. Product Analysis: Analyze the distribution of product categories, sizes, and quantities sold to identify popular
-products.
-3. Fulfillment Analysis: Investigate the fulfillment methods used and their effectiveness in delivering orders.
-4. Customer Segmentation: Segment customers based on their buying behaviour, location, and other relevant
-factors.
-5. Geographical Analysis: Explore the geographical distribution of sales, focusing on states and cities.
-6. Business Insights: Provide actionable insights and recommendations based on the analysis to optimize sales
-strategies, improve customer satisfaction, and enhance overall business performance.
+## How to Use
+1. Download and open the `.pbix` file in Power BI Desktop.
+2. Explore different pages to analyze insights.
+3. Use filters for a customized view.
 
-**Deliverables:**
-1. Comprehensive analysis report summarizing key findings, insights, and recommendations.
-2. Visualizations (charts, graphs) illustrating various aspects of the data analysis.
-3. Insights on product preferences, customer behaviour, and geographical sales distribution.
-4. Recommendations for improving sales strategies, inventory management, and customer service.
-
-**Expected Outcome:**
-By conducting a thorough analysis of the Amazon sales report, the goal is to gain valuable insights that can be
-leveraged to optimize business operations, enhance customer experience, and drive revenue growth. The
-analysis should provide actionable recommendations tailored to the specific needs and challenges of the
-business.
+## Installation (Optional)
+If using SQL for data preprocessing:
+1. Import CSV files into a SQL database.
+2. Use provided queries for data cleaning.
+3. Load the final dataset into Power BI.
+-------
